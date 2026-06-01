@@ -1,10 +1,11 @@
+name: practical18
 on:
   push:
     branches:
       - main
 
 on:
-  pul_request:
+  pulL_request:
     branches:
       - main
 
